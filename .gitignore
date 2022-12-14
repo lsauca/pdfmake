@@ -11,3 +11,5 @@ package-lock.json
 yarn.lock
 .idea
 /js
+build/vfs_fonts.js
+build/pdfmake.*
